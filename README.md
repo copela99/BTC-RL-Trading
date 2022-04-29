@@ -1,2 +1,2 @@
-# BTC-Reinforcement-Learning-Trading
-Bitcoin automated trading using OpenAI
+# Trading Bitcoin using Reinforcement Learning 
+Implementing the A2C RL algorithm to create a profitable trading bot.
